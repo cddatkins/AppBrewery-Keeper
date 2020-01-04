@@ -22,7 +22,6 @@ function CreateArea(props) {
     }
 
     function expand() {
-        
         setIsExpanded(true);
     }
 
